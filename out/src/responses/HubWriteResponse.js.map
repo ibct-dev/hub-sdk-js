@@ -1,0 +1,1 @@
+{"version":3,"file":"HubWriteResponse.js","sourceRoot":"","sources":["../../../src/responses/HubWriteResponse.ts"],"names":[],"mappings":";;AAEA;;GAEG;AACH,MAAqB,gBAAgB;IAEnC,YAAqB,QAA2B;QAA3B,aAAQ,GAAR,QAAQ,CAAmB;IAEhD,CAAC;IAED;;OAEG;IACI,YAAY;QACjB,OAAO,IAAI,CAAC,QAAQ,CAAC,SAAS,CAAC;IACjC,CAAC;CAEF;AAbD,mCAaC"}
