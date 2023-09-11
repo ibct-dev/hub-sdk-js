@@ -4,7 +4,7 @@
   "description": "JavaScript SDK for communicating with Identity Hub instances.",
   "main": "out/src/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@xter:registry": "https://npm.pkg.github.com"
 },"scripts": {
     "precommit": "npm run lint",
     "build": "tsc",
